@@ -154,7 +154,7 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
 #EXTINF:0,My5 Documentaries Pluto TV (England) (720p)
 #EXTVLCOPT:network-caching=10000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf901280e3550009139c86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=475&terminate=false&userId=
 #EXTINF:0,Mystery Science Theater 3000 (1080p)
 #EXTVLCOPT:network-caching=10000
 https://mst3k-localnow.amagi.tv/playlist.m3u8
