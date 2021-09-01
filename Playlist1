@@ -1,256 +1,171 @@
 #EXTM3U
 #EXTINF:179,30A Darcizzle Offshore (720p)
-#EXTVLCOPT:network-caching=10000
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:0,ABC 7 News San Francisco CA (KGO-TV) (720p)
-#EXTVLCOPT:network-caching=10000
+#EXTINF:28800,ABC 7 News San Francisco CA (KGO-TV) (720p)
 https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
 #EXTINF:0,ABC News (1080p)
-#EXTVLCOPT:network-caching=10000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:0,Adrenaline Rush (720p)
-#EXTVLCOPT:network-caching=10000
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:0,Adult Swim (East) (720p)
-#EXTVLCOPT:network-caching=10000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0,Adult Swim (West) (720p)
-#EXTVLCOPT:network-caching=10000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0,AFV (STIRR) (720p)
-#EXTVLCOPT:network-caching=10000
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:0,AFV Family (720p)
-#EXTVLCOPT:network-caching=10000
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:0,AMC IFC Film Picks (1080p)
-#EXTVLCOPT:network-caching=10000
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,AMC Presents (1080p)
-#EXTVLCOPT:network-caching=10000
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,AMC Rush (1080p)
-#EXTVLCOPT:network-caching=10000
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,American Classics (STIRR) (720p)
-#EXTVLCOPT:network-caching=10000
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 #EXTINF:0,American Horrors (480p)
-#EXTVLCOPT:network-caching=10000
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:0,Ameritrade (1080p)
-#EXTVLCOPT:network-caching=10000
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0,Bloody Disgusting (1080p)
-#EXTVLCOPT:network-caching=10000
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 #EXTINF:0,Brat TV (1080p)
-#EXTVLCOPT:network-caching=10000
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0,CBSN 5 SF Bay Area CA (KPIX-TV) (720p)
-#EXTVLCOPT:network-caching=10000
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 #EXTINF:0,Cheddar (1080p)
-#EXTVLCOPT:network-caching=10000
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Cinehouse (STIRR) (720p)
-#EXTVLCOPT:network-caching=10000
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:0,CineLife (1080p)
-#EXTVLCOPT:network-caching=10000
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,Civilized (Bumblebee) (1080p)
-#EXTVLCOPT:network-caching=10000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
 #EXTINF:0,CNN (720p)
-#EXTVLCOPT:network-caching=10000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0,Comedy Channel (1080p)
-#EXTVLCOPT:network-caching=10000
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0,Comedy Dynamics (1080p)
-#EXTVLCOPT:network-caching=10000
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
 #EXTINF:0,Docurama (1080p)
-#EXTVLCOPT:network-caching=10000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
 #EXTINF:0,Dove Channel (1080p)
-#EXTVLCOPT:network-caching=10000
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:0,DryBar Comedy (720p)
-#EXTVLCOPT:network-caching=10000
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
 #EXTINF:0,DryBar Comedy (720p)
-#EXTVLCOPT:network-caching=10000
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,DryBar Comedy (720p)
-#EXTVLCOPT:network-caching=10000
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Dust (1080p)
-#EXTVLCOPT:network-caching=10000
 https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Fear This! (720p)
-#EXTVLCOPT:network-caching=10000
 https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
 #EXTINF:0,Fear This! Classics (720p)
-#EXTVLCOPT:network-caching=10000
 https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
 #EXTINF:0,Fear This! Sci-Fi (720p)
-#EXTVLCOPT:network-caching=10000
 https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
 #EXTINF:0,Film Hub (720p)
-#EXTVLCOPT:network-caching=10000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:0,Fireplace Lounge (720p)
-#EXTVLCOPT:network-caching=10000
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 #EXTINF:0,Fireside (720p)
-#EXTVLCOPT:network-caching=10000
 https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
 #EXTINF:0,Fish Tank (720p)
-#EXTVLCOPT:network-caching=10000
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 #EXTINF:0,FOX 2 San Francisco CA (KTVU) (720p)
-#EXTVLCOPT:network-caching=10000
 https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
 #EXTINF:105,FOX News (720p)
-#EXTVLCOPT:network-caching=10000
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:0,FOX News Now (720p)
-#EXTVLCOPT:network-caching=10000
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0,FrightFlix (720p)
-#EXTVLCOPT:network-caching=10000
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 #EXTINF:0,FX (720p)
-#EXTVLCOPT:network-caching=10000
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:0,Grit (720p)
-#EXTVLCOPT:network-caching=10000
 https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
 #EXTINF:0,HA! That's Funny (720p)
-#EXTVLCOPT:network-caching=10000
 https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
 #EXTINF:0,High Times TV (Bumblebee) (720p)
-#EXTVLCOPT:network-caching=10000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
 #EXTINF:0,HISTORY Channel (Best of) (720p)
-#EXTVLCOPT:network-caching=10000
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:0,Hollywood Classics (1080p)
-#EXTVLCOPT:network-caching=10000
 https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Johnny Carson TV (1080p)
-#EXTVLCOPT:network-caching=10000
 https://johnnycarson-localnow.amagi.tv/playlist.m3u8
 #EXTINF:0,KOFY-DT1 San Francisco CA (720p)
-#EXTVLCOPT:network-caching=10000
 https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
 #EXTINF:0,MovieSphere (1080p)
-#EXTVLCOPT:network-caching=10000
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,MST3K (1080p)
-#EXTVLCOPT:network-caching=10000
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
 #EXTINF:0,My5 Documentaries Pluto TV (England) (720p)
-#EXTVLCOPT:network-caching=10000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf901280e3550009139c86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=475&terminate=false&userId=
 #EXTINF:0,Mystery Science Theater 3000 (1080p)
-#EXTVLCOPT:network-caching=10000
 https://mst3k-localnow.amagi.tv/playlist.m3u8
 #EXTINF:0,Mystery Science Theater 3000 (STIRR) (1080p)
-#EXTVLCOPT:network-caching=10000
 https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
 #EXTINF:0,myTV 4 San Francisco Bay Area CA (KRON-TV) (720p)
-#EXTVLCOPT:network-caching=10000
 https://cdn87.theus6tv.tk/locals/BayArea/kron-dt1.m3u8
 #EXTINF:0,NBC 11 Bay Area CA (KNTV) (1080p)
-#EXTVLCOPT:network-caching=10000
 https://cdn87.theus6tv.tk/locals/BayArea/kntv-dt1.m3u8
 #EXTINF:0,Newsmax (1080p)
-#EXTVLCOPT:network-caching=10000
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:0,Pluto TV Beverly Hillbillies (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db81695a95186000941ee8b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Pluto TV Biography (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Pluto TV CBS News (Bay Area) (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Pluto TV Classic TV (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Pluto TV Cops (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e1f7e089f23700009d66303&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=367&terminate=false&userId=
 #EXTINF:0,Pluto TV Cult Films (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c665db3e6c01b72c4977bc2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=109&terminate=false&userId=
 #EXTINF:0,Pluto TV Documentaries (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=
 #EXTINF:0,Pluto TV Happy Days (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Pluto TV HISTORY (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
 #EXTINF:0,Pluto TV Johnny Carson TV (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66928133461100077dfd73/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e66928133461100077dfd73&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=514&terminate=false&userId=
 #EXTINF:0,Pluto TV Live Music Replay (US) (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5873fc21cad696fb37aa9054&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=855&terminate=false&userId=
 #EXTINF:0,Pluto TV Military (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb3fea0f711fd76340eebff&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=655&terminate=false&userId=
 #EXTINF:0,Pluto TV MOVIE CHANNEL (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&serverSideAds=true&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=
 #EXTINF:0,Pluto TV Mutant X (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc008d4422e00072d2405/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Pluto TV Paramount Movie Channel (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=
 #EXTINF:0,Pluto TV Paramount+ Picks (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Pluto TV Sci-Fi (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02a44a9518600094273ac/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Pluto TV Science (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=
 #EXTINF:0,Pluto TV Star Trek (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd39f8c4ce900075d7698&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=150&terminate=false&userId=
 #EXTINF:0,Pluto TV Terror (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
 #EXTINF:0,Pluto TV The Addams Family (684p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d81607ab737153ea3c1c80e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=511&terminate=false&userId=
 #EXTINF:0,Pluto TV The Rifleman (720p)
-#EXTVLCOPT:network-caching=10000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e825550e758c700077b0aef&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=529&terminate=false&userId=
 #EXTINF:0,Samuel Goldwyn Classics (1080p)
-#EXTVLCOPT:network-caching=10000
 https://samuelgoldwyn-classic-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,Space 1999 (STIRR) (720p)
-#EXTVLCOPT:network-caching=10000
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 #EXTINF:0,SYFY (720p)
-#EXTVLCOPT:network-caching=10000
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 #EXTINF:0,TMZ (720p)
-#EXTVLCOPT:network-caching=10000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
 #EXTINF:0,Yahoo! Finance (720p)
-#EXTVLCOPT:network-caching=10000
 https://yahoo-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0,Yahoo! News (720p)
-#EXTVLCOPT:network-caching=10000
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
